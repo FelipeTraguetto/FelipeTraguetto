@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Power BI
 - 📫 How to reach me: www.linkedin.com/in/felipe-traguetto
 - teste
-adicionei texto
+- adicionei texto
 
 <!---
 FelipeTraguetto/FelipeTraguetto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
